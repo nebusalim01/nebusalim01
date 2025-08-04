@@ -5,8 +5,7 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding gif">
 </p>
 
-- 🔭 I’m currently working on **a Personal Portfolio Website**
-- 🌱 Learning Full Stack Development: **ASP.NET Core with Angular** and **Django with React**
+- 🌱 Learning Full Stack Development: **ASP.NET Core with Angular**
 - 👨‍💻 All my projects live at: [github.com/nebusalim01](https://github.com/nebusalim01)
 - 📫 Reach me at: **nebusalim@gmail.com**
 - ⚡ Fun fact: I break things just to fix them again 😄
